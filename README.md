@@ -3,7 +3,7 @@
 An intelligent chatbot powered by a fine-tuned GPT-2 language model that provides comprehensive information about cars in India. Ask about specifications, prices, features, and more!
 
 ![Car Bot Demo](https://github.com/adithyanraj03/Car_Bot_LLM/raw/main/demo.gif)
-![image](https://github.com/user-attachments/assets/2ae392ba-5ccb-431f-b16c-f9f2d4a5b5fc)
+
 
 ## ✨ Features
 
@@ -13,7 +13,8 @@ An intelligent chatbot powered by a fine-tuned GPT-2 language model that provide
 - 🕸️ Real-time web scraping for up-to-date car information
 - 📊 Detailed car specifications, images, and feature comparisons
 - 📱 Responsive design works on desktop and mobile devices
-
+  
+![image](https://github.com/user-attachments/assets/2ae392ba-5ccb-431f-b16c-f9f2d4a5b5fc)
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
