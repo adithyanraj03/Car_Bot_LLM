@@ -72,8 +72,6 @@ Pre-loaded with information about popular car models, brands, types, and price r
 ### LLM Integration
 The system uses a smaller, fine-tuned version of GPT-2 (distilgpt2) for natural language understanding and response generation.
 
-### Rule-Based Fallbacks
-For common queries, the system uses rule-based responses to ensure accuracy and speed.
 
 ## 📊 Performance
 
