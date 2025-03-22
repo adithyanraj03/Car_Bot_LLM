@@ -110,4 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Car information websites (CardDekho, CarWale, ZigWheels) for the valuable data
 
 ## 📞 Contact
-Adithyan Raj - [GitHub](https://github.com/adithyanraj03) - [LinkedIn](https://www.linkedin.com/in/adithya-n-raj-609589230/) click here [@adithyanraj03](https://mail.google.com/mail/?view=cm&fs=1&to=adithyanraj03@gmail.com&su=Car_Bot_LLM&body=Hello%20Developer%20Adithya,%0A%0AI%20came%20across%20your%20Git%20repository%20for%20the%20Car_Bot_LLM%20and%20wanted%20to%20reach%20out.%0A%0AI%27m%20interested%20in%20discussing%20some%20ideas.%0A%0ABest,%0A%5BYour%20Name%5D)
+Adithyan Raj - [GitHub](https://github.com/adithyanraj03) - [LinkedIn](https://www.linkedin.com/in/adithya-n-raj-609589230/) mail: click [@adithyanraj03](https://mail.google.com/mail/?view=cm&fs=1&to=adithyanraj03@gmail.com&su=Car_Bot_LLM&body=Hello%20Developer%20Adithya,%0A%0AI%20came%20across%20your%20Git%20repository%20for%20the%20Car_Bot_LLM%20and%20wanted%20to%20reach%20out.%0A%0AI%27m%20interested%20in%20discussing%20some%20ideas.%0A%0ABest,%0A%5BYour%20Name%5D)
