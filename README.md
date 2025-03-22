@@ -50,7 +50,7 @@ An intelligent chatbot powered by a fine-tuned GPT-2 language model that provide
 
 ![image](https://github.com/user-attachments/assets/261b8911-0d4f-4579-a08e-4fff39c20ae3)
 
-## 💻 Usage
+## 💬 Usage Examples
 
 1. Type your car-related query in the chat input box
 2. Ask about specific car models, features, or general questions like:
